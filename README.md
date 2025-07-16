@@ -1,2 +1,2 @@
-# kon
- konsex
+# konachan-kde
+ kon kde
